@@ -9,4 +9,4 @@ Some of the data structures studied and apply were:
   Hashmap 
   Hashtable
   
-These data structur were studied and applied in the labs. 
+These data structur were studied and applied in these labs. 
